@@ -20,7 +20,7 @@ Image-generation models can now produce text-rich, natural-looking visual artifa
 
 Each claim is presented in 10 visual formats, producing 10,000 prompt-image pairs. The JSON contains claim-level text records; the image collection will be released separately.
 
-Image dataset: [Hugging Face](https://huggingface.co/datasets/YYYYYYYYYzy/EpiReal-Bench).
+Image dataset: [Hugging Face](https://huggingface.co/datasets/YYY-001/EpiReal-Bench).
 
 ### Visual Formats
 
